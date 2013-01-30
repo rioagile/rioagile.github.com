@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Rio Agile {% if page.title %}- {{ page.title }}{% endif %}
+        </title>
+        <link href="/themes/default/css/all.css" rel="stylesheet" />
+        <link href="/rss.xml" class="feed" rel="alternate" type="application/rss+xml" title="sidneylimafilho.com.br"
+        />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+        <meta name="google-translate-customization" content="6b8d269fcbc1b6d5-0fa0d030d26cbeaf-ga791899a89db06bb-16"
+        />
+        <script src="http://code.jquery.com/jquery-1.8.0.min.js" type="text/javascript">        
+        </script>
+        <script src="/themes/default/js/linq.js" type="text/javascript">        
+        </script>
+        <script src="/themes/default/js/moment/moment.min.js" type="text/javascript">        
+        </script>
+        <!--[if lt IE 9]>
+            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js">            
+            </script>
+        <![endif]-->
+        <!--[if IE]>
+            <script type="text/javascript" src="http://fast.fonts.com/jsapi/d34e3f76-678a-447e-a024-f6b2e5185713.js">            
+            </script>
+        <![endif]-->
+        <script src="http://www.google.com/jsapi" type="text/javascript">        
+        </script>
+        <script src="http://ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.0.js" type="text/javascript">        
+        </script>
+        <script src="/themes/default/js/tags.js" type="text/javascript">        
+        </script>
+        <script src="/themes/default/js/quotes.js" type="text/javascript">        
+        </script>
+        <script src="/themes/default/js/user.js" type="text/javascript">        
+        </script>
+    </head>
+    
+    <body>
+        <overlay>
+            <div>
+            </div>
+        </overlay>
+        <header>
+            <div class="wrapper">
+                <a href="/"><h1 class="signature">RioAgile</h1></a>
+                <menu>
+                    <ul>
+                        <li>
+                            <a href="/o-que-e.html" {%if page.categories contains 'o-que-e'%}class="selected"
+                            {%endif%} title="Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.">O QUE É RIOAGILE?</a>
+                        </li>
+                        <li>
+                            <a href="/quem-somos.html" {%if page.categories contains 'quem-somos'%}class="selected" {%endif%}
+                            title="As principais pessoas que ajudam o RioAgile e seus blogs.">QUEM FAZ O RIO SER MAIS AGILE</a>
+                        </li>
+                        <li>
+                            <a href="/rio-agile-talks.html" {%if page.categories contains 'rio-agile-talks'%}class="selected" {%endif%}
+                            title="Lista com os eventos passados e próximos.">RIOAGILE TALKS</a>
+                        </li>
+                        <li>
+                            <a href="/agilidade-no-mundo.html" {%if page.categories contains 'agilidade-no-mundo'%}class="selected" {%endif%}
+                            title="Os eventos não-promovidos por nós, mas que vale muito a pena ficar sabendo.">AGILIDADE NO MUNDO</a>
+                        </li>     
+                        <li>
+                            <a href="/agile-in-rio.html" {%if page.categories contains 'agile-in-rio'%}class="selected" {%endif%}
+                            title="Evento que será realizado em Outubro.">AGILE IN RIO</a>
+                        </li>                    
+                    </ul>
+                </menu>
+            </div>
+            <div id="google_translate_element">
+            </div>
+        </header>
+        <banner {% if page.categories %} class="{{page.categories}}" {% endif %}>
+            <!-- <a href="javascript:;" class="arrow-right"></a><a href="javascript:;" class="arrow-left"></a>-->
+            <div class="wrapper" style="background-color: rgba(0,0,0,0.3); width: 840px; padding: 10px; margin-bottom: 20px;">
+                <div class="excerpt">                   
+                    <h2>Desenvolver Software é a arte de cultivar a informação de forma que ela cresça naturalmente
+                        através de mãos distintas.
+                    </h2>
+                </div>
+            </div>
+        </banner>
+        <section>
+            <div class="super">
+                <div class="wrapper">
+                    <div class="left-side">
+                        <div {% if page.categories %} class="{{page.categories}}" {% endif %}>{{ content }}
+                        </div>
+                    </div>
+                    <div class="right-side">
+                        <div class="widget myinfo">
+                            <div class="gravatar">
+                                A Rio Agile é uma comunidade carioca focada em métodos ágeis e lean para desenvolvimento de software criada em Janeiro de 2011. A principal motivação para sua criação é a frase “Procure a comunidade mais próxima de você”, citada por Rachel Davies em seu livro Agile Coaching.
+                            </div>
+                            <nav>
+                                <a href="javascript:;" target="_blank" class="button twitter" title="Pensamentos rápidos via Twitter."></a>
+                                <a href="javascript:;" target="_blank" class="button facebook" title="Minha vida social no Facebook."></a>
+                                <a href="javascript:;" target="_blank" class="button linkedin" title="Minha rede profissional no Linkedin."></a>
+                                <a href="javascript:;" target="_blank" class="button feed" title="Assine meus posts com o RSS."></a>
+                                <a href="javascript:;" target="_blank" class="button slideshare" title="Veja meus slides no Slideshare."></a>
+                                <a href="javascript:;" target="_blank" class="button github" title="O que desenvolvo e coloco no Github."></a>
+                                <a href="javascript:;" target="_blank" class="button youtube" title="Filmes que assisto via Youtube."></a>
+                                <a href="javascript:;" target="_blank" class="button mail" title="Clique aqui para me enviar uma mensagem."></a>
+                            </nav>
+                        </div>
+                        <!-- <div class="widget bookmarks"> <h2>Li e Gostei</h2> <ul> <li> <a href="http://www.bizrevolution.com.br/bizrevolution/2011/01/casamento-e-empreendedorismo-.html"title="Casamento e Empreendedorismo." class="i">Casamento e Empreendedorismo.</a> <small> fonte: <a href="http://www.bizrevolution.com.br/bizrevolution/">BizRevolution</a> </small> </li> <li> <a href="http://feedproxy.google.com/~r/insistimento/~3/xsDfjzmhv7k/" title="Deus dará?" class="i">Deus dará?</a> <small> fonte: <a href="http://www.insistimento.com.br">Insistimento</a> </small> </li> <li> <a href="http://www.lucianolima.com.br/post.aspx?id=0d238960-1eeb-42a7-be91-b83dd016978e"title="Empregabilidade, você vem cuidando da sua?" class="i">Empregabilidade, você vem cuidando da sua?</a> <small> fonte: <a href="http://www.lucianolima.com.br/">Luciano Lima</a> </small> </li> <li> <a href="http://www.israelaece.com/post.aspx?id=b8ece558-f6c8-41c1-9a8e-4303fe72a11c" title="Conte�do de WCF para estudo"class="i">Conteúdo de WCF para estudo</a> <small> fonte: <a href="http://www.israelaece.com/">Israel Aece</a> </small> </li> <li> <a href="http://blogs.msdn.com/b/otavio/archive/2010/09/18/paradoxo-de-schrodinger-e-projetos-de-software.aspx"title="Paradoxo de Schrodinger e Projetos de Software" class="i">Paradoxo de Schrodinger e Projetos de Software</a> <small> fonte: <a href="http://blogs.msdn.com/b/otavio/">Arquitetura em Pauta</a> </small> </li> <li> <a href="http://www.bizrevolution.com.br/bizrevolution/2010/12/o-sistema-é-foda.html" title="O Sistema é Foda!"class="i">O Sistema é Foda!</a> <small> fonte: <a href="http://www.bizrevolution.com.br/bizrevolution/">BizRevolution</a> </small> </li> <li> <a href="http://feedproxy.google.com/~r/PapodehomemLifestyleMagazine/~3/3LZTE0r07o4/story01.htm"title="O líder ensina pelas costas" class="i">O líder ensina pelas costas</a> <small> fonte: <a href="http://papodehomem.com.br">Papo de Homem - Lifestyle Magazine</a> </small> </li> <li> <a href="http://feedproxy.google.com/~r/DotNetUnplugged/~3/A_f6q0ntlwo/post.aspx" title="Senior tem cicatriz"class="i">Senior tem cicatriz</a> <small> fonte: <a href="http://blog.lambda3.com.br">Blog Lambda3</a> </small> </li> <li> <a href="http://www.papodeempreendedor.com.br/marketing/o-segredo-de-um-bom-nome/" title="O segredo de um bom nome"class="i">O segredo de um bom nome</a> <small> fonte: <a href="http://www.papodeempreendedor.com.br">Papo de Empreendedor</a> </small> </li> <li> <a href="http://feedproxy.google.com/~r/feedburner/KMzJ/~3/1NlzRGQj1Is/" title="As tr�s perguntas"class="i">As três perguntas</a> <small> fonte: <a href="http://www.insistimento.com.br">Insistimento</a> </small> </li> <li> <a href="http://feedproxy.google.com/~r/typepad/sethsmainblog/~3/Y5nO__SHQO4/sprezzatura.html"title="Sprezzatura" class="i">Sprezzatura</a> <small> fonte: <a href="http://sethgodin.typepad.com/seths_blog/">Seth's Blog</a> </small> </li> </ul> </div> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="wrapper">
+                <div class="tag-cloud">
+                </div>
+                <p>
+                    <small>Este site possui todo seu conteúdo aberto e disponível em um
+                        <a href="http://github.com/rioagile/rioagile.github.com"
+                        target="_blank">repositório público</a>.
+                    </small>
+                </p>
+            </div>
+        </footer>
+    </body>
+
+</html>
+<script type="text/javascript">
+for (var key in User) {
+    if (User[key].getUrl) {
+        $("." + key).attr({
+            "target":"_blank",
+            "href": User[key].getUrl(),
+            "title": User[key].title
+        });
+    }
+}
+</script>
+<!-- <script type="text/javascript"> function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'pt', includedLanguages: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT }, 'google_translate_element'); } </script> <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"> </script> -->

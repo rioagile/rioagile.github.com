@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<article>
+
+    <h1>        
+        {{ page.title }}
+        
+        <time>
+            <year>{{ page.date | date: "%Y" }}</year>
+            <day>{{ page.date | date: "%d" }}</day>
+            <month>{{ page.date | date: "%b" | upcase }}</month>            
+        </time>
+    </h1>
+
+    
+
+
+    <div class="content">
+    {{ content }}
+    </div>
+
+    <!-- 
+    <hr />
+
+    {% if page.tags %}
+    {% for tag in page.tags %}
+      {% if forloop.first %}Tagged in{% endif %}
+      <strong><a href="/tags/{{ tag | slugize }}">{{ tag }}</a></strong>{% unless forloop.last %}, {% endunless %}
+      {% if forloop.last %}<br />{% endif %}
+    {% endfor %}
+    {% endif %}
+
+    <div class="next-prev-nav low-top">
+    {% if page.previous.url %}
+      &laquo;&nbsp;<a href="{{ page.previous.url }}" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>
+    {% endif %}
+
+    {% if page.previous.url %}
+      {% if page.next.url %}
+        |
+      {% endif %}
+    {% endif %}
+
+
+    {% if page.next.url %}
+      <a href="{{ page.next.url }}" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>&nbsp;&raquo;
+    {% endif %}
+
+    <br />
+    </div>
+    -->
+</article>
+
+{% unless page.no_comments %}
+  <a name="respond"></a> <!-- For backwards compatibility -->
+  <div id="disqus_thread"></div>
+
+  <script type="text/javascript">
+      var disqus_shortname = 'novafusion';
+      var disqus_identifier = '{{ page.id }}';
+      var disqus_url = '{{ site.url }}{{ page.url }}';
+      
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+{% endunless %}
