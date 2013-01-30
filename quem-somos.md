@@ -12,8 +12,6 @@ tags:       []
 
 ---
 
-## Conceito
-
 Abaixo segue uma lista de quem faz o Rio ser mais Agile.
 
 +   **Rafael Nascimento** é team coach. Seu objetivo é auxiliar na maturação de times capazes de transformar seu auto-conhecimento e auto-organização em alta performance e resultados para a empresa e seus produtos; que sejam capazes de perceber os obstáculos à sua frente e auxiliar na remoção dos mesmos, proporcionando a melhoria contínua de seu processo de desenvolvimento de software. Atua na área de TI há 10 anos, focando, nos últimos 3 anos, em coaching e mentoring para times de desenvolvimento de software com foco nas filosofias Agile e Lean e nas ferramentas e processos oriundas das mesmas (Scrum, Kanban, XP, Lean Startup, etc.). É Certified Scrum Professional (CSP) pela Scrum Alliance, Professional Scrum Master (PSM) pela Scrum.org, Personal & Professional Coach (PPC) pela Sociedade Brasileira de Coaching e Agile Coach Professional (ACP) pelo Instituto de Coaching Aplicado a TI (ICA-TI).
