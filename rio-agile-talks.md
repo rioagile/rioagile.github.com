@@ -24,24 +24,24 @@ A seguir apresentamos todos os eventos passados e o atual. Participe você tamb�
 
 ## Agile Talks - Março de 2013
 
-**<a href="agiletalks_2013_03.md">Detalhes</a>**
+**<a href="agiletalks_2013_03.html"> - Detalhes</a>**
 
-**<a href="http://rioagiletalks-eorg.eventbrite.com/#">Inscrições</a>**
+**<a href="http://rioagiletalks-eorg.eventbrite.com/#"> - Inscrições</a>**
 
-## Agile Talks - Edições Passadas
+### Agile Talks - Edições Passadas
 
-**<a href="agiletalks_2012_11.md">Novembro 2012</a>**
+**<a href="agiletalks_2012_11.html"> - Novembro 2012</a>**
 
-**<a href="agiletalks_2012_09.md">Setembro 2012</a>**
+**<a href="agiletalks_2012_09.html"> - Setembro 2012</a>**
 
-**<a href="agiletalks_2012_05.md">Maio 2012</a>**
+**<a href="agiletalks_2012_05.html"> - Maio 2012</a>**
 
-**<a href="agiletalks_2012_03.md">Março 2012</a>**
+**<a href="agiletalks_2012_03.html"> - Março 2012</a>**
 
-**<a href="agiletalks_2011_11.md">Novembro 2011</a>**
+**<a href="agiletalks_2011_11.html"> - Novembro 2011</a>**
 
-**<a href="agiletalks_2011_08.md">Agosto 2011</a>**
+**<a href="agiletalks_2011_08.html"> - Agosto 2011</a>**
 
 ## Agile Talks - Edições Especiais
 
-**Em breve**
+**Em breve** 
