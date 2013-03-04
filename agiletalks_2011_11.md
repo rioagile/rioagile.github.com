@@ -32,8 +32,5 @@ Um backlog priorizado de user stories ajuda a entender o que fazer, porém, é u
 
 Um mapa de user stories é uma ferramenta útil para o time ter uma visão geral - ver toda a amplitude da solução e seu conjunto de usuários e funcionalidades.
 
-##Inscrições 
-
-<a href="http://agileinrio2-eorg.eventbrite.com/">Agile Talks - Eventbrite</a> - Encerradas
 
 
