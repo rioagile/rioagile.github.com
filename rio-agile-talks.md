@@ -30,6 +30,8 @@ A seguir apresentamos todos os eventos passados e o atual. Participe você tamb�
 
 ### Agile Talks - Edições Passadas
 
+**<a href="agiletalks_2013_01.html"> - Janeiro 2013</a>**
+
 **<a href="agiletalks_2012_11.html"> - Novembro 2012</a>**
 
 **<a href="agiletalks_2012_09.html"> - Setembro 2012</a>**
@@ -44,4 +46,5 @@ A seguir apresentamos todos os eventos passados e o atual. Participe você tamb�
 
 ## Agile Talks - Edições Especiais
 
-**Em breve** 
+- Sotos Connect in Rio
+- Leslie Stein in Rio
