@@ -28,6 +28,4 @@ Mps.BR Ágil, uma conversa sobre o modelo de maturidade Mps.BR com práticas de 
 
 Uma palestra de aproximadamente 10 minutos introduzindo os pilares do Lean Manufacturing defendidos pela Toyota e os princípios lean para desenvolvimento de software apresentados por Mary Poppendieck, seguidos de um círculo de discussão sobre o tema.
 
-##Inscrições
 
-<a href="http://www.eventbrite.com/event/2875983143/eorg">Agile Talks - Eventbrite</a>
