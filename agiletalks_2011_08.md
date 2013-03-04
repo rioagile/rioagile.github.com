@@ -24,6 +24,3 @@ Primeiro Rio Agile Talks que aconteceu na Ideias no centro do Rio.
 
 **Workshop: Scrum Sprints**
 
-##Inscrições
-
-<a href="http://agileinrio1-eorg.eventbrite.com/">Agile in Rio - Eventbrite</a>
