@@ -32,6 +32,3 @@ Quarto Rio Agile Talks realizado na Ideais, no centro do Rio.
 
 **DOJO: Ideais Cowabunga**
 
-##Inscrições
-
-<a href="http://agileinrio4-eorg.eventbrite.com/">Agile Talks - Eventbrite</a>
