@@ -14,57 +14,24 @@ tags:       []
 
 ## Detalhes
 
-Sábado, 09 de Março 2013
+O Rio Agile Talks é um evento que acontece bimestralmente reunindo os membros da comunidade Rio Agile. 
 
-Horário: 10:00 às 16:30
+O evento que nasce com base na auto-organização dos membros da comunidade, que dão sugestões de temas para palestras e outros se voluntariam para palestrar.
 
-Local: Ideais Tecnologia
+Eventualmente acontece também edições especiais, onde a comunidade recebe algum membro externo para palestrar ou organiza alguma sessão com transmissão ao vivo de algum evento ágil que esteja acontecendo em outra parte do mundo.
 
-Endereço: 98 R. da Assembléia - Rio de Janeiro
+A seguir apresentamos todos os eventos passados e o atual. Participe você também!
 
+## Agile Talks - Edição Atual
 
-## Palestras
+**Março de 2013 - <a href="agiletalks_2013_03.md">Detalhes</a>**
 
-**Documentação ágil: O que e como documentar (10h às 11h)**
-    - Diego Cerqueira, Coordenador de Desenvolvimento na Plannera
+**<a href="http://rioagiletalks-eorg.eventbrite.com/#">Inscrições</a>**
 
-O número de documentos que compõe um projeto de software são imensos, sem contar as infinitas metodologias que estão a nossa disposição, cada pessoa da empresa tem uma perspectiva sobre a documentação e isso atrapalha e muito na hora de saber o que e como documentar num projeto; ou de saber se aqueles detalhes realmente trazem valor ou apenas tornam grande e cansativa a documentação. O principal objetivo é refletir sobre o processo e como ele poderia ocorrer em um ambiente ágil; trazendo para o debate o que documentar e como documentar num projeto ágil; visando sempre uma documentação clara e objetiva, focando sempre se a informação é relevante a quem se destina, assim evitando uma sobrecarga de informação desnecessária, que não traz nenhum valor ao projeto e consequentemente ao cliente.
+## Agile Talks - Edições Passadas
 
-**As barreiras de uma transição ágil (11h às 12h)**
-    -  Sidney Lima, Diretor de TI na Reserve
+**em breve**
 
-Os desafios e obstáculos num processo de transformação nem sempre são tão adaptáveis quanto se precisa, portanto estes desafios se iniciam com o agente de mudança de dentro para fora, do meio para os extremos. Nesta apresentação compartilho minha experiência num processo de transição onde o maior desafio é adaptar aquilo que não se muda. 
+## Agile Talks - Edições Especiais
 
-**Requisitos ágeis	 (12h às 13h)**
-    - Felipe Rodrigues, Crafters Studio
-
-Venha compartilhar sua experiência na gestão de requisitos em projetos ágeis e projetos não ágeis. A sessão será composta por uma introdução ao assunto e debate sobre os mitos que envolvem essa disciplina.
-
-**WORKSHOP: Learning 3.0	(14h30 às 15h30)**
-    - Ester Lima de Campos, Scrum Master na GPE
-
-"Ok, estamos no século da complexidade e queremos que as organizações e seus gestores mudem o mindset. Mas se mudança e aprendizado andam sempre juntos, será que para que isso aconteça não temos que mudar radicalmente a forma com que profissionais e organizações aprendem?"
-
-Nesse workshop será apresentado a contribuição de Alexandre Magno ao Management 3.0, sugerindo alguns conceitos e práticas para melhorar a "desenvolver competências". Learning 3.0 é sobre a aprendizagem emergente. 
-
-**OPEN SPACE: Técnicas avançadas para Product Owners (15h30 às 16h30)**
-    - Marcos Garrido, Startup7
-
-Vamos falar de Valor de Negócios, Hipóteses x Requisitos, ferramentas de refinamento de backlog, como usar o Validation Board do Lean Startup pra descobrir o melhor produto a ser feito, falar de user stories e mais.
-
-##Sobre os Palestrantes:
-
-**Diego Cerqueira**
-    - é apaixonado por agilidade e por tudo que rodeia esse assunto, sou coordenador de desenvolvimento na startup Plannera, onde tenho buscado a cada dia consolidar os princípios ágeis no nosso processo de desenvolvimento; formado como técnico em informática pelo CEFET/RJ, graduado em Sistema de Informação pela UNESA e me especializando na área de Análise, Projeto e Desenvolvimento de software na UGF; trabalho a 8 anos na área de TI e trago na bagagem conhecimento amplo, tanto da área de operações, quanto da área de desenvolvimento.
-
-**Sidney Lima Filho**
-    - atua como Diretor de TI no Reserve, com foco principal do seu trabalho na transição de cultura no desenvolvimento de software, coaching de métodos ágeis e em desenvolvimento de projetos web e mobile, em diversas linguagens e tecnologias. Iniciou sua carreira em TI no ano de 1998 e desde então acredita que o software é um produto derivado da sinergia dos sonhos das pessoas, canalizada pela comunicação, materializada em imagens que agregam valor somente a quem sonhou junto. No desenvolvimento de software passou por tanto altos e baixos com os clientes sonhadores, onde aprendeu que responder as mudanças de escopo é mais importante do que entregar o que está escrito.
-
-**Felipe Rodrigues**
-    - é nascido empreendedor, viciado em inovação e agilidade. Com mais de 9 anos de experiência, atualmente está construindo produtos bacanas na Crafters Software Studio, vivendo um de seus sonhos.
-
-**Ester Lima de Campos**
-    - é Mestre em Engenharia de Sistemas de Computação pela COPPE/UFRJ, graduada em Engenharia Eletrônica e Computação pela UFRJ. Há mais de 9 anos trabalha na área de desenvolvimento de software e há 5 anos vem se especializando em Metodologias ágeis. Desempenha o papel de Scrum Master na GPE, no projeto de desenvolvimento do ScrumHalf, além de ministrar treinamentos e dar consultoria para empresas em Scrum. É Certified Scrum Master (CSM) e Certified Scrum Product Owner (CSPO) pela Scrum Alliance. É também professora do MBA da Poli/UFRJ na disciplina de Metodologias Ágeis e Qualidade.
-
-**Marcos Garrido**
-    - CSPO, CSP, possui 13 anos de experiência na área de TI, tendo há 6 anos migrado do desenvolvimento para a gestão de projetos. É CEO da Startup7, professor convidado de Métodos Ágeis no MBA de Gestão de Projetos da PUC-Rio e apaixonado por temas como agilidade, startups e gestão de produtos.
+**Em breve**
