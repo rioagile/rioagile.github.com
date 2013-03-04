@@ -46,6 +46,3 @@ http://sembugs.blogspot.com
 **Felipe Rodrigues** é nascido empreendedor, viciado em inovação e agilidade. Com mais de 9 anos de experiência, atualmente está construindo produtos bacanas na Crafters Software Studio, vivendo um de seus sonhos.
 @felipero
 
-##Inscrições
-
-<a href="http://www.eventbrite.com/event/4544869828/eorg">Agile in Rio - Eventbrite</a> *Encerradas*
