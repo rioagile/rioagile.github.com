@@ -21,7 +21,7 @@ Local: Ideais Tecnologia
 
 Endereço: 98 R. da Assembléia - Rio de Janeiro
 
-#Inscrições
+## Inscrições
 
 <a href="http://rioagiletalks-eorgf.eventbrite.com/#">Agile in Rio - Eventbrite</a>
 
