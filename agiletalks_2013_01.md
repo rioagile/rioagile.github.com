@@ -53,8 +53,5 @@ Apresentou trabalhos no Brazil Scrum Gathering 2009, Ágiles 2009, Germany Scrum
 
 **Marcos Garrido**, CSPO, CSP, possui 13 anos de experiência na área de TI, tendo há 6 anos migrado do desenvolvimento para a gestão de projetos. É Gerente de Plataformas Sociais na Globo.com, professor convidado de Métodos Ágeis no MBA de Gestão de Projetos da PUC-Rio e apaixonado por temas como agilidade, startups e gestão de produtos.
 
-##Inscrições
-
-<a href="http://www.eventbrite.com/event/5139566582/eorg">Agile in Rio - Eventbrite</a> Encerradas
 
 
