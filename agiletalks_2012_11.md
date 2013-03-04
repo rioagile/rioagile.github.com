@@ -37,14 +37,14 @@ O objetivo desse compartilhamento, é despertar um estado de consciência sobre 
 Será abordado também, detalhes "cabulosos"  do processo de criação de produtos, configuração societária, trabalho em time,  relacionamento com os clientes, momentos de crises e de baixo fluxo de caixa.
 
 ##Palestrantes
-**<b>Annelise Gripp</b> trabalha como Scrum Master na área de Esportes na Globo.com há 1 ano, com experiencia em agilidade há 3 anos. Com bacharel em Análise de Sistemas e MBA em Gestao Empresarial com enfase em TI, atua com 18 anos na área de Tecnologia da Informação. Trabalhou como analista e lider em grandes empresas como: Oi, Endesa, Triumph International, Stam Metalurgica entre outras. Além da experiencia em gerencia de projetos, qualidade em software (CMMI e MPS-BR), possui formação em Coaching, certificação CSM, CSPO, ITIL, Auditor de Qualidade ISO 9001.**
+**Annelise Gripp** trabalha como Scrum Master na área de Esportes na Globo.com há 1 ano, com experiencia em agilidade há 3 anos. Com bacharel em Análise de Sistemas e MBA em Gestao Empresarial com enfase em TI, atua com 18 anos na área de Tecnologia da Informação. Trabalhou como analista e lider em grandes empresas como: Oi, Endesa, Triumph International, Stam Metalurgica entre outras. Além da experiencia em gerencia de projetos, qualidade em software (CMMI e MPS-BR), possui formação em Coaching, certificação CSM, CSPO, ITIL, Auditor de Qualidade ISO 9001.
 
-**<b>Elias Nogueira</b> é um tester, atualmente trabalhando como consultor técnico em ALM na HP Software. Ativo na comunidade de teste possui um blog chamado sembugs e é ativista que todo testador precisa ser técnico.
+**Elias Nogueira** é um tester, atualmente trabalhando como consultor técnico em ALM na HP Software. Ativo na comunidade de teste possui um blog chamado sembugs e é ativista que todo testador precisa ser técnico.
 @eliasnogueira
-http://sembugs.blogspot.com**
+http://sembugs.blogspot.com
 
-**<b>Felipe Rodrigues</b> é nascido empreendedor, viciado em inovação e agilidade. Com mais de 9 anos de experiência, atualmente está construindo produtos bacanas na Crafters Software Studio, vivendo um de seus sonhos.
-@felipero**
+**Felipe Rodrigues** é nascido empreendedor, viciado em inovação e agilidade. Com mais de 9 anos de experiência, atualmente está construindo produtos bacanas na Crafters Software Studio, vivendo um de seus sonhos.
+@felipero
 
 ##Inscrições
 
