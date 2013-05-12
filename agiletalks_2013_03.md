@@ -13,48 +13,39 @@ tags:       []
 
 ## Detalhes
 
-Sábado, 09 de Março 2013
+Oitavo Rio Agile Talks, realizado no "Ideais Tecnologia", no centro do Rio.
 
-Horário: 10:00 às 16:30
-
-Local: Ideais Tecnologia
-
-Endereço: 98 R. da Assembléia - Rio de Janeiro
-
-## Inscrições
-
-<a href="http://rioagiletalks-eorgf.eventbrite.com/#">Agile in Rio - Eventbrite</a>
 
 ## Palestras
 
-**Documentação ágil: O que e como documentar (10h às 11h)**
+**Documentação ágil: O que e como documentar**
     - Diego Cerqueira, Coordenador de Desenvolvimento na Plannera
 
 O número de documentos que compõe um projeto de software são imensos, sem contar as infinitas metodologias que estão a nossa disposição, cada pessoa da empresa tem uma perspectiva sobre a documentação e isso atrapalha e muito na hora de saber o que e como documentar num projeto; ou de saber se aqueles detalhes realmente trazem valor ou apenas tornam grande e cansativa a documentação. O principal objetivo é refletir sobre o processo e como ele poderia ocorrer em um ambiente ágil; trazendo para o debate o que documentar e como documentar num projeto ágil; visando sempre uma documentação clara e objetiva, focando sempre se a informação é relevante a quem se destina, assim evitando uma sobrecarga de informação desnecessária, que não traz nenhum valor ao projeto e consequentemente ao cliente.
 
-**As barreiras de uma transição ágil (11h às 12h)**
+**As barreiras de uma transição ágil**
     -  Sidney Lima, Diretor de TI na Reserve
 
 Os desafios e obstáculos num processo de transformação nem sempre são tão adaptáveis quanto se precisa, portanto estes desafios se iniciam com o agente de mudança de dentro para fora, do meio para os extremos. Nesta apresentação compartilho minha experiência num processo de transição onde o maior desafio é adaptar aquilo que não se muda. 
 
-**Requisitos ágeis   (12h às 13h)**
+**Requisitos ágeis**
     - Felipe Rodrigues, Crafters Studio
 
 Venha compartilhar sua experiência na gestão de requisitos em projetos ágeis e projetos não ágeis. A sessão será composta por uma introdução ao assunto e debate sobre os mitos que envolvem essa disciplina.
 
-**WORKSHOP: Learning 3.0	(14h30 às 15h30)**
+**WORKSHOP: Learning 3.0**
     - Ester Lima de Campos, Scrum Master na GPE
 
 "Ok, estamos no século da complexidade e queremos que as organizações e seus gestores mudem o mindset. Mas se mudança e aprendizado andam sempre juntos, será que para que isso aconteça não temos que mudar radicalmente a forma com que profissionais e organizações aprendem?"
 
 Nesse workshop será apresentado a contribuição de Alexandre Magno ao Management 3.0, sugerindo alguns conceitos e práticas para melhorar a "desenvolver competências". Learning 3.0 é sobre a aprendizagem emergente. 
 
-**OPEN SPACE: Técnicas avançadas para Product Owners (15h30 às 16h30)**
+**OPEN SPACE: Técnicas avançadas para Product Owners**
     - Marcos Garrido, Startup7
 
 Vamos falar de Valor de Negócios, Hipóteses x Requisitos, ferramentas de refinamento de backlog, como usar o Validation Board do Lean Startup pra descobrir o melhor produto a ser feito, falar de user stories e mais.
 
-##Sobre os Palestrantes:
+##Palestrantes:
 
 **Diego Cerqueira**
     - é apaixonado por agilidade e por tudo que rodeia esse assunto, sou coordenador de desenvolvimento na startup Plannera, onde tenho buscado a cada dia consolidar os princípios ágeis no nosso processo de desenvolvimento; formado como técnico em informática pelo CEFET/RJ, graduado em Sistema de Informação pela UNESA e me especializando na área de Análise, Projeto e Desenvolvimento de software na UGF; trabalho a 8 anos na área de TI e trago na bagagem conhecimento amplo, tanto da área de operações, quanto da área de desenvolvimento.
