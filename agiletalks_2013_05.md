@@ -23,7 +23,7 @@ Endereço: Avenida Presidente Vargas, 502 - Rio de Janeiro
 
 ## Inscrições
 
-<a href="http://rioagiletalks-eorgf.eventbrite.com/#">Agile in Rio - Eventbrite</a>
+<a href="http://rioagiletalks-eorgf.eventbrite.com/#" target="_blank">Agile in Rio - Eventbrite</a>
 
 ## Palestras
 
