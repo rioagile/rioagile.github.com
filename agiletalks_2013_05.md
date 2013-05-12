@@ -45,7 +45,7 @@ Demonstração de uma prática criada na psicoterapia familiar e recentemente ap
 **OPEN SPACE: Knowledge21 (15h às 16h)**
     - Marcos Garrido, Startup7
 
-** Agile Chopp (16h às 17h)
+**Agile Chopp (16h às 17h)**
 
 ##Sobre os Palestrantes:
 
