@@ -19,10 +19,13 @@ Interessado em participar de algum evento indo com a Caravana Ágil, basta inclu
 
 ##Caravanas
 
-**QCON SP 2013**
-- <a href="https://docs.google.com/spreadsheet/ccc?key=0AnGwkdCJ_LKudE92VlAwX2wwT3V4aUNwQVgzaFpSWmc#gid=0" target="_blank">Inscreva-se aqui</a> 
+**QCON SP 2013** 
+- 30 e 31 agosto
+- <a href="http://qconsp.com/" target="_Blank">Site QCON SP</a>
+- <a href="https://docs.google.com/spreadsheet/ccc?key=0AnGwkdCJ_LKudE92VlAwX2wwT3V4aUNwQVgzaFpSWmc#gid=0" target="_blank">Inscreva-se na caravana aqui</a> 
 
 
 **Agile Brazil 2013**
-
+- 26 a 28 de junho em Brasília
+- <a href="http://www.agilebrazil.com/2013/" target="_blank">Site Agile Brazil</a>
 
