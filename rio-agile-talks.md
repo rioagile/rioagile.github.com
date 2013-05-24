@@ -22,13 +22,15 @@ Eventualmente acontece também edições especiais, onde a comunidade recebe alg
 
 A seguir apresentamos todos os eventos passados e o atual. Participe você também!
 
-## Agile Talks - Maio de 2013
+## Agile Talks - Julho de 2013
 
-**<a href="agiletalks_2013_05.html"> - Detalhes</a>**
+**<a href="agiletalks_2013_07.html"> - Detalhes</a>**
 
-**<a href="http://rioagiletalks-eorg.eventbrite.com/#"> - Inscrições</a>**
+**<a href=""> - Inscrições</a> Em Breve**
 
 ## Agile Talks - Edições Passadas
+
+**<a href="agiletalks_2013_05.html"> - Maio 2013</a>**
 
 **<a href="agiletalks_2013_03.html"> - Março 2013</a>**
 
