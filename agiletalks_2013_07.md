@@ -17,7 +17,7 @@ Sábado, 20 de Julho 2013
 
 Horário: 10:00 às 17:00
 
-Local: A serdefinido
+Local: A definir
 
 Endereço: 
 
