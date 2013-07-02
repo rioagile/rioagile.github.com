@@ -9,8 +9,8 @@ excerpt:    > Missão, Visão, Valores, Endereço para Facebook, twitter, grupo 
 published:  'true'
 categories: 'post adminAgileInRio'
 tags:       []
-
 ---
+
 
 ## Planilhas Google Docs
 
