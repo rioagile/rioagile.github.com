@@ -27,4 +27,4 @@ Em Breve
 
 ## Palestras
 
-**<a href="http://call4paperz.com/events/rio-agile-talks-julho" target="Blank">Proponha e vote nas palestras para o Agile Talks</a>
+<a href="http://call4paperz.com/events/rio-agile-talks-julho" target="Blank">Proponha e vote nas palestras para o Agile Talks</a>

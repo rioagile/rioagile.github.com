@@ -14,5 +14,7 @@ tags:       []
 
 ## Planilhas Google Docs
 
-<a href="https://docs.google.com/spreadsheet/ccc?key=0Akey0hgStoZHdFoxaDlCMXBrSjFDNk9iYk9kRHdBNUE&usp=sharing">Controle de Frentes</a>
+[Controle de Frentes][planilha]
+
+[planilha]: https://docs.google.com/spreadsheet/ccc?key=0Akey0hgStoZHdFoxaDlCMXBrSjFDNk9iYk9kRHdBNUE&usp=sharing
 
