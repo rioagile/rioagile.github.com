@@ -7,7 +7,7 @@ image:      ''
 excerpt:    > Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
 
 published:  true
-categories: 'post at-2013-07'
+categories: 'post adminAgileInRio'
 tags:       []
 
 ---
