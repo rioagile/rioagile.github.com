@@ -6,7 +6,7 @@ author:     Ester Lima de Campos
 image:      ''
 excerpt:    > Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
 
-published:  true
+published:  'true'
 categories: 'post adminAgileInRio'
 tags:       []
 
