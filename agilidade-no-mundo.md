@@ -8,7 +8,6 @@ excerpt:    Os eventos não-promovidos por nós, mas que vale muito a pena ficar
 published:  true
 categories: 'post agilidade-no-mundo'
 tags:       []
-
 ---
 
 ## Conceito

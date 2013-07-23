@@ -9,7 +9,6 @@ excerpt:    > As principais pessoas que ajudam o RioAgile e seus blogs.
 published:  true
 categories: 'post quem-somos'
 tags:       []
-
 ---
 
 Abaixo segue uma lista de quem faz o Rio ser mais Agile.

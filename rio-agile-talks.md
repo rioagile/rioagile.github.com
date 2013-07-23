@@ -9,7 +9,6 @@ excerpt:    > Lista com os eventos passados e próximos.
 published:  true
 categories: 'post rio-agile-talks'
 tags:       []
-
 ---
 
 ## Detalhes

@@ -9,7 +9,6 @@ excerpt:    > teste.
 published:  true
 categories: 'post teste'
 tags:       []
-
 ---
 
 ## Detalhes
