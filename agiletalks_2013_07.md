@@ -9,7 +9,6 @@ excerpt:    > Missão, Visão, Valores, Endereço para Facebook, twitter, grupo 
 published:  true
 categories: 'post at-2013-07'
 tags:       []
-
 ---
 
 ## Detalhes
@@ -23,7 +22,6 @@ Décimo Rio Agile Talks, realizado no "Ideais Tecnologia", no centro do Rio.
 
 O conflito nos rodeia como líderes. Há duas escolhas óbvias: resolver o empate, ou ignorar decidindo que o problema é do time. Uma terceira abordagem, mais poderosa, é tornar-se um facilitador de conflitos qualificado. Esta sessão oferece 4 ferramentas de inteligência em sistemas para ajudá-lo a evitar conflito destrutivo e incentivar o criativo.
 
-[Apresentacao1]:http://www.slideshare.net/rafanasil/liderando-conflitos
 
 **Técnicas de Retrospectivas**
     - Annelise Gripp
@@ -46,3 +44,4 @@ Trabalhar com requisitos constitui uma parte importante na criação de um produ
 
 
 
+[Apresentacao1]:http://www.slideshare.net/rafanasil/liderando-conflitos
