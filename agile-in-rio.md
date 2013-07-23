@@ -4,9 +4,7 @@ layout:     post
 title:      'Agile in Rio'
 author:     Sidney Lima Filho
 image:      ''
-excerpt:    > 
-			Evento que será realizado em Outubro.
-
+excerpt:    Evento que será realizado em Outubro.
 published:  true
 categories: 'post agile-in-rio'
 tags:       []
