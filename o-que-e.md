@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     default
 
 title:      'O que é RioAgile?'
 author:     Sidney Lima Filho
