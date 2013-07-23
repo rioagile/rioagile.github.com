@@ -4,7 +4,7 @@ layout:     post
 title:      'Admin AgileInRio 2013'
 author:     Ester Lima de Campos
 image:      ''
-excerpt:    > Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
+excerpt:    Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
 
 published:  'true'
 categories: 'post adminAgileInRio'

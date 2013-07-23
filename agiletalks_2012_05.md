@@ -4,7 +4,7 @@ layout:     post
 title:      'Agile Talks- Maio de 2012'
 author:     Ester Lima de Campos
 image:      ''
-excerpt:    > Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
+excerpt:    Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
 
 published:  true
 categories: 'post at-2012-05'

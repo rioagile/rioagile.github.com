@@ -4,7 +4,7 @@ layout:     post
 title:      'Agile Talks- Janeiro de 2013'
 author:     Ester Lima de Campos
 image:      ''
-excerpt:    > Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
+excerpt:    Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
 
 published:  true
 categories: 'post at-2013-01-esp'

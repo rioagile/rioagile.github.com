@@ -4,7 +4,7 @@ layout:     post
 title:      'RioAgile Talks'
 author:     Sidney Lima Filho
 image:      ''
-excerpt:    > Lista com os eventos passados e próximos.
+excerpt:    Lista com os eventos passados e próximos.
 
 published:  true
 categories: 'post rio-agile-talks'
