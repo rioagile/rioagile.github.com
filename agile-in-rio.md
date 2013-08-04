@@ -15,16 +15,8 @@ O Agile in Rio é o evento nacional sobre Agile e Lean promovido pela Rio Agile,
 
 O evento acontecerá no Estado do Rio de Janeiro, na cidade de Niterói nos dias 26 e 27 de outubro.
 
+Mais detalhes, visite o site do evento [Agile in Rio 2013][siteAgileinRio] e participe você também!
 
-##Pré Inscrições
+[siteAgileinRio]: http://www.agileinrio.com.br
 
-Interessado em participar desse evento? Realize sua [pré-inscrição][preinscricao], sem custo.
-
-Em breve as inscrições serão abertas.
-
-[preinscricao]: http://www.eventbrite.com/event/5351787340/?ref=enivtefor001&utm_source=site_rioAgile&utm_media=site&utm_compaign=inviteformalv2&utm_term=readmore&invite=null
-
-##Detalhes do evento
-
-Mary Poppendieck é a convidada para um dos keynotes do Agile in Rio.
 
