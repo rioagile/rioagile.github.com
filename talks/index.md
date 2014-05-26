@@ -7,7 +7,7 @@ image:      ''
 excerpt:    Lista com os eventos passados e próximos.
 
 published:  true
-categories: 'post rio-agile-talks'
+categories: 'rio-agile-talks'
 tags:       []
 ---
 
@@ -23,36 +23,38 @@ A seguir apresentamos todos os eventos passados e o atual. Participe você tamb�
 
 ## Agile Talks - Próxima Edição
 
-**<a href=""> - Detalhes</a> Em Breve**
-
-**<a href=""> - Inscrições</a> Mais próximo ao evento**
+**Detalhes em breve**
 
 ## Agile Talks - Edições Passadas
 
-**<a href="agiletalks_2013_07.html"> - Julho 2013</a>**
+### 2013
 
-**<a href="agiletalks_2013_05.html"> - Maio 2013</a>**
+**[Julho](2013/07.html)**
 
-**<a href="agiletalks_2013_03.html"> - Março 2013</a>**
+**[Maio](2013/05.html)**
 
-**<a href="agiletalks_2013_01.html"> - Janeiro 2013</a>**
+**[Março](2013/03.html)**
 
-**<a href="agiletalks_2012_11.html"> - Novembro 2012</a>**
+**[Janeiro](2013/01.html)**
 
-**<a href="agiletalks_2012_09.html"> - Setembro 2012</a>**
+### 2012
 
-**<a href="agiletalks_2012_05.html"> - Maio 2012</a>**
+**[Novembro](2012/11.html)**
 
-**<a href="agiletalks_2012_03.html"> - Março 2012</a>**
+**[Setembro](2012/09.html)**
 
-**<a href="agiletalks_2011_11.html"> - Novembro 2011</a>**
+**[Maio](2012/05.html)**
 
-**<a href="agiletalks_2011_08.html"> - Agosto 2011</a>**
+**[Março](2012/03.html)**
+
+### 2011
+
+**[Novembro](2011/11.html)**
+
+**[Agosto](2011/08.html)**
 
 ## Agile Talks - Edições Especiais
 
-**<a href="agiletalks_2012_10_esp.html"> - Stoos Connect! in Rio</a>**
+**[Stoos Connect! in Rio](2012/10-especial.html)**
 
-**<a href="agiletalks_2013_01_esp.html"> - Leslie Stein in Rio</a>**
-
-
+**[Leslie Stein in Rio](2013/01-especial.html)**
