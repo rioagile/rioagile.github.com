@@ -6,7 +6,7 @@ author:     Sidney Lima Filho
 image:      ''
 excerpt:    Missão, Visão, Valores, Endereço para Facebook, twitter, grupo no google, etc.
 published:  true
-categories: 'post o-que-e'
+categories: 'o-que-e'
 tags:       []
 ---
 

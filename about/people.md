@@ -7,7 +7,7 @@ image:      ''
 excerpt:    As principais pessoas que ajudam o RioAgile e seus blogs.
 
 published:  true
-categories: 'post quem-somos'
+categories: 'quem-somos'
 tags:       []
 ---
 
