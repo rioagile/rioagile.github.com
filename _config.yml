@@ -3,4 +3,5 @@ name: Site do Rio Agile
 description: Site do Rio Agile
 destination: _site
 permalink: /:categories/:title
+markdown: kramdown
 exclude: [make.cmd, .nojekyll]
